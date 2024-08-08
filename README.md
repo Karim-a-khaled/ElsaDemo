@@ -61,5 +61,5 @@ The repository is organized into the following main folders:
 
 #### Design
 
-    * Elsa Workflows:** Visual designer for workflows.
-    * Microsoft Rules Engine:** JSON-based rule definitions.
+    * Elsa Workflows: Visual designer for workflows.
+    * Microsoft Rules Engine: JSON-based rule definitions.
